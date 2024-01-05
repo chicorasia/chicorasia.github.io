@@ -1,7 +1,7 @@
 [
   {
     "Name": "Will it rain on my ride?",
-    "Description": "Final project for CS50 2023",
+    "Description": "Final project for CS50 2023. Will it Rain on My Ride is a minimalist tool for checking the weather forecasts along a planned trip. It is a Python-based web app deployed with Flask that uses the Openroute Services and tha Open-meteo APIs for navigation and weather forecast.",
     "ImgUrl": "CS50_Final_Project.png",
     "ProjectUrl": "",
     "Type": [ "Code" ],
