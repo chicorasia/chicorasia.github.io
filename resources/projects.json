@@ -1,5 +1,27 @@
 [
   {
+    "Name": "Will it rain on my ride?",
+    "Description": "Final project for CS50 2023",
+    "ImgUrl": "CS50_Final_Project.png",
+    "ProjectUrl": "",
+    "Type": [ "Code" ],
+    "Year": 2023,
+    "Language": "Python",
+    "Keywords": [ "HTML", "Front-end", "Back-end", "AJAX", "Web development", "JSON", "Javascript", "API Integration" ],
+    "Employer": "Self"
+  },
+  {
+    "Name": "Interactive portfolio",
+    "Description": "This very tool! An interactive portfolio for showcasing Architecture, Code and Urban planning projects. Made for Harvard's CS50 2023",
+    "ImgUrl": "InteractivePortfolioScreenshot.png",
+    "ProjectUrl": "",
+    "Type": [ "Code" ],
+    "Year": 2023,
+    "Language": "Javascript",
+    "Keywords": [ "HTML", "Front-end", "Web development", "JSON" ],
+    "Employer": "Self"
+  },
+  {
     "Name": "App-repositories",
     "Description": "Android app developed for the Inter Android Developer bootcamp. View a users public repositories list from the Github API. Follows recommended Android Architecture practices and employs MVVM, Retrofit, Navigation Components, Koin dependency injection, Clean Architecture. Expressive documentation.",
     "ImgUrl": "AppRepoScreenshot.png",
@@ -152,16 +174,5 @@
     "Language": "Python",
     "Keywords": ["Geospatial data", "Network analyis", "Jupyter", "NetworkX"],
     "Employer": "Ippuc"
-  },
-  {
-    "Name": "Interactive portfolio",
-    "Description": "This very tool! An interactive portfolio for showcasing Architecture, Code and Urban planning projects. Made for Harvard's CS50 2023",
-    "ImgUrl": "InteractivePortfolioScreenshot.png",
-    "ProjectUrl": "",
-    "Type": ["Code"],
-    "Year": 2023,
-    "Language": "Javascript",
-    "Keywords": ["HTML", "Front-end", "Web development", "JSON"],
-    "Employer": "Self"
   }
 ]
