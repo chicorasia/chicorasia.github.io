@@ -1,0 +1,167 @@
+[
+  {
+    "Name": "App-repositories",
+    "Description": "Android app developed for the Inter Android Developer bootcamp. View a users public repositories list from the Github API. Follows recommended Android Architecture practices and employs MVVM, Retrofit, Navigation Components, Koin dependency injection, Clean Architecture. Expressive documentation.",
+    "ImgUrl": "AppRepoScreenshot.png",
+    "ProjectUrl": "https://github.com/chicorasia/app-repositories",
+    "Type": ["Code"],
+    "Year": 2021,
+    "Language": "Kotlin",
+    "Keywords": ["Android", "Mobile", "Bootcamp", "UI/UX", "API Client"],
+    "Employer": "Self"
+  },
+  {
+    "Name": "BusinessCard app",
+    "Description": "Android app developed for the Inter Android Developer bootcamp. A full CRUD business card list with responsive search and a card sharing feature. Employs the recommended Android Architecture practices and technologies: MVVM, Room Database, Navigation, Koin dependency injection, expressive documentation.",
+    "ImgUrl": "AppBusinessCardScreenshot.png",
+    "ProjectUrl": "https://github.com/chicorasia/inter-business-card",
+    "Type": ["Code"],
+    "Year": 2021,
+    "Language": "Kotlin",
+    "Keywords": ["Android", "Mobile", "UI/UX"],
+    "Employer": "Self"
+  },
+  {
+    "Name": "CóriaPay App",
+    "Description": "Developed as part of a codelab, this mobile app simulates a popular Brazilian electronic payment and peer-to-peer money transfer platform. Employs JWT Authentication, MVVM, Navigation, Koin dependency injection, Clean Architecture.",
+    "ImgUrl": "AppCoriaPayScreenshot.png",
+    "ProjectUrl": "https://github.com/chicorasia/coriapay-app",
+    "Type": ["Code"],
+    "Year": 2021,
+    "Language": "Kotlin",
+    "Keywords": ["Android", "Mobile", "API Client"],
+    "Employer": "Self"
+  },
+  {
+    "Name": "CóriaPay API",
+    "Description": "A 100% Kotlin RESTful API to support the CóriaPay App, built on the Spring Boot platform according to Clean Architecture principles, it employs Spring data JDBC, Jpa Hibernate, PosgreSQL, Swagger.",
+    "ImgUrl": "CoriaPayAPIScreenshot.png",
+    "ProjectUrl": "https://github.com/chicorasia/coriapaykt-v2",
+    "Type": ["Code"],
+    "Year": 2021,
+    "Language": "Kotlin",
+    "Keywords": ["API", "Spring Boot", "PostgreSQL"],
+    "Employer": "Self"
+  },
+  {
+    "Name": "AstraNovos",
+    "Description": "This SpaceFlightNews API client has been developed as part of an ongoing tutorial series on Clean Architecture, Dependency Injection with Koin and connection with web services using Retrofit. Employs MVVM, Navigation, Koin dependency injection, Clean Architecture, Kotlin Flow, Room Database automated testing.",
+    "ImgUrl": "AstraNovosScreenshot.png",
+    "ProjectUrl": "https://github.com/chicorasia/astranovos",
+    "Type": ["Code"],
+    "Year": 2022,
+    "Language": "Kotlin",
+    "Keywords": ["Android", "Mobile", "API Client"],
+    "Employer": "Self"
+  },
+  {
+    "Name": "SESS - Simple E-bus System Simulation",
+    "Description": "A tool for evaluating bus fleet electrification scenarios, based on best practices for e-bus operations planning, service block building, driving range estimation and bus dispatch strategies. Developed in Kotlin, it employs the Compose Multiplatform in a Desktop setting.",
+    "ImgUrl": "SessSnapshot.png",
+    "ProjectUrl": "",
+    "Type": ["Code", "Urban planning"],
+    "Year": 2022,
+    "Language": "Kotlin",
+    "Keywords": ["Desktop", "Compose Multiplatform", "Modelling", "Transportation"],
+    "Employer": "Self"
+  },
+  {
+    "Name": "CaAntiga App",
+    "Description": "Ca_antiga is an interactive color selection tool for historic buildings which employs custom View objects to simulate the color application. Color compositions can be created manually or randomly generated with an original algorithm based on the traditional color selection and combination for each architectonic period and style. It also allows users to save and share their favorite compositions, as well as accessing information about the styles of historical Brazilian architecture.",
+    "ImgUrl": "CaAntigaScreenshots.png",
+    "ProjectUrl": "https://github.com/chicorasia/ca_antiga",
+    "Type": ["Code", "Architecture"],
+    "Year": 2020,
+    "Language": "Java",
+    "Keywords": ["Android", "Mobile", "Heritage sites", "Education"],
+    "Employer": "Self"
+  },
+  {
+    "Name": "Afonso Pena Airport (Curitiba, Brazil)",
+    "Description": "Oversight and compatibilization of architecture designs for the renewal and expansion of the passenger terminal (over 100,000 sq.m and 5000 design documents). Assessment and oversight of design and construction of the parking garage building.",
+    "ImgUrl": "AfonsoPenaAirport.png",
+    "ProjectUrl": "",
+    "Type": ["Architecture"],
+    "Year": 2016,
+    "Language": "",
+    "Keywords": ["Project management", "Transportation", "Public works", "Infrastructure"],
+    "Employer": "Infraero"
+  },
+  {
+    "Name": "Foz do Iguassu Airport",
+    "Description": "Conceptual studies and writing of procurement documentation (specifications and legal tender) for the renewal and expansion of the passenger terminal.",
+    "ImgUrl": "FozDoIguassuAirport.png",
+    "ProjectUrl": "",
+    "Type": ["Architecture"],
+    "Year": 2017,
+    "Language": "",
+    "Keywords": ["Procurement", "Public works", "Transportation", "Design thinking", "Infrastructure"],
+    "Employer": "Infraero"
+  },
+  {
+    "Name": "Vitória Airport",
+    "Description": "Conceptual studies for operational and commercial update of an existing architecture design, including review for compliance with current fire prevention and accessibility regulations. Writing of procurement documentation (specifications and legal tender) for the renewal and expansion of the passenger terminal.",
+    "ImgUrl": "VitoriaAirport.png",
+    "ProjectUrl": "",
+    "Type": ["Architecture"],
+    "Year": 2016,
+    "Language": "",
+    "Keywords": ["Procurement", "Public works", "Transportation", "Design thinking", "Project Management"],
+    "Employer": "Infraero"
+  },
+  {
+    "Name": "Armazem Macedo (Antonina, Brazil)",
+    "Description": "Restoration of a historic building on the waterfront of Antonina with a modern annex for use as a cultural center. Writing of procurement documentation (specifications and legal tender); budget review and analysis. Management of the restoration and construction contract.",
+    "ImgUrl": "ArmazemMacedo.png",
+    "ProjectUrl": "",
+    "Type": ["Architecture"],
+    "Year": 2020,
+    "Language": "",
+    "Keywords": ["Project management", "Heritage sites", "Restoration", "Public works", "Procurement", "Culture"],
+    "Employer": "Iphan"
+  },
+  {
+    "Name": "Cycling Infrastructure (Curitiba, Brazil)",
+    "Description": "Cycleways planning, design review, budget analysis and writing of procurement specifications.",
+    "ImgUrl": "Cycleway.png",
+    "ProjectUrl": "",
+    "Type": ["Urban planning"],
+    "Year": 2022,
+    "Language": "",
+    "Keywords": ["Public works", "Infrastructure", "Transportation", "Mobility"],
+    "Employer": "Ippuc"
+  },
+  {
+    "Name": "Shared bike system",
+    "Description": "Assessment of bike station locations and deployment strategies in close collaboration with the commercial partner",
+    "ImgUrl": "SharedBike.png",
+    "ProjectUrl": "https://www.tembici.com.br/pt/curitiba/",
+    "Type": ["Code", "Urban planning"],
+    "Year": 2023,
+    "Language": "",
+    "Keywords": ["GIS", "Mobility", "Geospatial data", "Project management"],
+    "Employer": "Ippuc"
+  },
+  {
+    "Name": "Neighborhood network analysis",
+    "Description": "Assesment of origin-destination survey data for the city of Curitiba to understand relations between the citys neighborhoods",
+    "ImgUrl": "Od2017NetworkAnalysis.png",
+    "ProjectUrl": "",
+    "Type": ["Code", "Urban planning"],
+    "Year": 2023,
+    "Language": "Python",
+    "Keywords": ["Geospatial data", "Network analyis", "Jupyter", "NetworkX"],
+    "Employer": "Ippuc"
+  },
+  {
+    "Name": "Interactive portfolio",
+    "Description": "This very tool! An interactive portfolio for showcasing Architecture, Code and Urban planning projects. Made for Harvard's CS50 2023",
+    "ImgUrl": "InteractivePortfolioScreenshot.png",
+    "ProjectUrl": "",
+    "Type": ["Code"],
+    "Year": 2023,
+    "Language": "Javascript",
+    "Keywords": ["HTML", "Front-end", "Web development", "JSON"],
+    "Employer": "Self"
+  }
+]

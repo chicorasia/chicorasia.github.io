@@ -1,0 +1,69 @@
+/* Add custom styles here */
+
+.centered-div {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.contact-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+#error-msg {
+    display: none;
+}
+
+.portfolio-not-empty {
+    visibility: visible;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 1.25em;
+    text-align: center;
+    margin: auto;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.copyright {
+    font-size: small;
+    margin: auto;
+    text-align: center;
+}
+
+.img-rounded {
+    margin-top: 1.25em;
+    margin: 1.1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.footer {
+    padding: 1.5em;
+}
+
+.btn-group {
+    padding-right: 1.25em;
+    padding-left: 1.25em;
+}
+
+.button.link {
+    background: none;
+    border: none;
+}
